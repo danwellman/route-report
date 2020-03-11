@@ -1,0 +1,27 @@
+{
+  "name": "route-report",
+  "version": "0.0.1",
+  "description": "Generate a list of routes in your app",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwellman/route-report.git"
+  },
+  "keywords": [
+    "Angular",
+    "Routes"
+  ],
+  "author": "Dan Wellman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danwellman/route-report/issues"
+  },
+  "homepage": "https://github.com/danwellman/route-report#readme",
+  "dependencies": {
+    "typescript": "3.8.3"
+  }
+}
